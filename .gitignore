@@ -1,0 +1,15 @@
+UE4Project/.vs/*
+UE4Project/Binaries/Win64/*.pdb
+UE4Project/Build/*
+UE4Project/Intermediate/*
+UE4Project/Saved/*
+UE4Project/Content/Collections
+UE4Project/Content/Developers
+
+UE4ProjectCopy
+UE4Project\*.uproject
+Tools\configs\copy_cooked_assets.rcj
+Tools\user_settings\editor_directory.txt
+cook_assets.bat
+package.bat
+Tools\pack_compressed.bat
